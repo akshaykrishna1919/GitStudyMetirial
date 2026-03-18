@@ -1,1 +1,5 @@
 Readme This is repo to study about git
+
+git init - A Git commit message is a short, clear description of the changes made in a commit.
+It helps developers understand what was modified, added, or fixed in the project.
+Professional commit messages improve collaboration, readability, and project tracking. 
